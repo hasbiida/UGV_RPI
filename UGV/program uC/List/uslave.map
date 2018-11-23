@@ -1,0 +1,15 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+data                                                              0x0160      20
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+ser                                                               R5           1
+i                                                                 R6,R7        2
+en                                                                R2.0      1bit

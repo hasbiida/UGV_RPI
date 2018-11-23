@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "GetDatasheet.py", line 128, in <module>
+    con.auto(int(degr),int(rang))
+  File "GetDatasheet.py", line 52, in auto
+    time.sleep(0.1)
+KeyboardInterrupt

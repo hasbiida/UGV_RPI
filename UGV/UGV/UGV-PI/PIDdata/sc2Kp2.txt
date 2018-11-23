@@ -1,0 +1,2867 @@
+mode?
+input degrees
+input range
+False
+compass
+Encoder
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,36,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:42 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,433
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:42 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,433
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:42 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:42 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:42 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:43 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:43 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:43 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:43 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:43 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:43 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:44 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:44 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:44 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:44 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:44 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:45 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:45 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:45 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:45 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:45 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:46 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:46 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:46 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:46 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:46 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:46 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:47 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:47 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:47 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:47 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:47 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:48 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:48 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:48 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:48 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:48 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:48 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:49 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:49 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:49 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:49 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:49 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:50 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:50 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:50 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:50 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:50 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:51 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:51 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:51 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:51 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:51 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:51 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:52 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:52 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:52 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:52 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:52 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:53 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:53 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:53 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:53 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:53 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:54 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:54 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:54 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:54 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:54 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:54 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:55 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:55 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:55 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:55 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:55 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:56 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:56 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:56 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:56 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:56 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:56 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:57 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:57 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:57 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:57 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:57 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:58 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:58 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:58 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:58 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:58 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:59 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:59 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:59 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:59 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,430
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:59 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:25:59 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:00 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:00 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:00 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:00 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:00 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:01 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:01 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:01 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:01 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:01 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:01 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:02 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:02 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:02 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:02 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:02 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:03 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:03 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,430
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:03 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:03 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:03 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:04 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:04 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:04 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:04 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:04 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:04 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:05 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:05 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:05 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:05 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:05 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:06 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:06 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:06 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:06 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:06 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:07 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:07 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:07 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:07 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:07 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:07 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:08 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:08 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:08 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:08 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,431
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:08 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:09 2000 $master,208,192,1,1
+
+['$master,208,192,1,1,1', '$slave,208,192', '$counter,0,0']
+encoder,36,0,432
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:09 2000 $master,208,192,1,1
+
+mode?
+input degrees
+input range
+False
+compass
+Encoder
+['counter,0,0', '$master,228,212,1,1,1', '$slave,228,212']
+encoder,0,0,419
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:57 2000 $master,228,212,1,1
+
+['$counter,1,0', '$master,228,212,1,1,1', '$slave,228,212']
+encoder,0,0,412
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:58 2000 $master,228,212,1,1
+
+['$counter,0,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,371
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:58 2000 $master,226,214,1,1
+
+['$counter,0,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,193
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:58 2000 $master,222,218,1,1
+
+['$counter,6,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,45
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:58 2000 $master,220,220,1,1
+
+['$counter,17,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,36
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:58 2000 $master,220,220,1,1
+
+['$counter,20,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,37
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:59 2000 $master,220,220,1,1
+
+['$counter,23,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,41
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:59 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,46
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:59 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,46
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:59 2000 $master,220,220,1,1
+
+['$counter,23,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,48
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:59 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,47
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:26:59 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,45
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:00 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,44
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:00 2000 $master,220,220,1,1
+
+['$counter,23,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,48
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:00 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,51
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:00 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,54
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:00 2000 $master,220,220,1,1
+
+['$counter,23,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,62
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:00 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,66
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:01 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,68
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:01 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,74
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:01 2000 $master,220,220,1,1
+
+['$counter,23,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,82
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:01 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,88
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:01 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,91
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:01 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,94
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:02 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,98
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:02 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,96
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:02 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,103
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:02 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,107
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:02 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:02 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,108
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:03 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:03 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,110
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:03 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:03 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,103
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:03 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,102
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:03 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,102
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:04 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,103
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:04 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,100
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:04 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,102
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:04 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,102
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:04 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,108
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:04 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,106
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:05 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:05 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,108
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:05 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:05 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,107
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:05 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,107
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:05 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,107
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:06 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,106
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:06 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,112
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:06 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,111
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:06 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,120
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:06 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,125
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:06 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,129
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:07 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,139
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:07 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,150
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:07 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,153
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:07 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,157
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:07 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,154
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:07 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,146
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:08 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,136
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:08 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,132
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:08 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,120
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:08 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,110
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:08 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,108
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:09 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,100
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:09 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,97
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:09 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,94
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:09 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,91
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:09 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,88
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:09 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,89
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:10 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,87
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:10 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,88
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:10 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,86
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:10 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,83
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:10 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,84
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:10 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,84
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:11 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,85
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:11 2000 $master,220,220,1,1
+
+['$counter,26,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,85
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:11 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,83
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:11 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,85
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:11 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,85
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:11 2000 $master,220,220,1,1
+
+['$counter,25,1', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,88
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:12 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,88
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:12 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,86
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:12 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,83
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:12 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,82
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:12 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,78
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:12 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,76
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:13 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,76
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:13 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,80
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:13 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,85
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:13 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,86
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:13 2000 $master,220,220,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,95
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:13 2000 $master,220,220,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,102
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:14 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,108
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:14 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,119
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:14 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,122
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:14 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,121
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:14 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,122
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:14 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,120
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:15 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,118
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:15 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,113
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:15 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,114
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:15 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,115
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:15 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,119
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:15 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,116
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:16 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,119
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:16 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,114
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:16 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,112
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:16 2000 $master,222,218,1,1
+
+['$counter,26,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,110
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:16 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:16 2000 $master,222,218,1,1
+
+['$counter,23,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,107
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:17 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:17 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,124
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:17 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,136
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:17 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,135
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:17 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,141
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:18 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,145
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:18 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,144
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:18 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,145
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:18 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,149
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:18 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,152
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:18 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,156
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:19 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,163
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:19 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,159
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:19 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,163
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:19 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,169
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:19 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,180
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:19 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,185
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:20 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,189
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:20 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,200
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:20 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,210
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:20 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,213
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:20 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,221
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:20 2000 $master,224,216,1,1
+
+['$counter,23,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,228
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:21 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,223
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:21 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,215
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:21 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,204
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:21 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,187
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:21 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,180
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:21 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,172
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:22 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,166
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:22 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,162
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:22 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,157
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:22 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,154
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:22 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,151
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:22 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,146
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:23 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,145
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:23 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,150
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:23 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,151
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:23 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,149
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:23 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,148
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:23 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,152
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:24 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,155
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:24 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,152
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:24 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,153
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:24 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,151
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:24 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,148
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:24 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,149
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:25 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,144
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:25 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,148
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:25 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,141
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:25 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,123
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:25 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,136
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:25 2000 $master,222,218,1,1
+
+['$counter,22,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,169
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:26 2000 $master,222,218,1,1
+
+['$counter,22,0', '$master,228,212,1,1,1', '$slave,228,212']
+encoder,0,0,472
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:26 2000 $master,228,212,1,1
+
+['$counter,19,0', '$master,240,200,1,1,1', '$slave,240,200']
+encoder,0,0,1086
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:26 2000 $master,240,200,1,1
+
+['$counter,15,0', '$master,252,188,1,1,1', '$slave,252,188']
+encoder,0,0,1686
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:26 2000 $master,252,188,1,1
+
+['$counter,8,0', '$master,184,256,1,1,1', '$slave,184,  0']
+encoder,0,0,-1797
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:26 2000 $master,184,256,1,1
+
+['$counter,5,0', '$master,254,186,1,1,1', '$slave,254,186']
+encoder,0,0,1792
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:27 2000 $master,254,186,1,1
+
+['$counter,3,0', '$master,254,186,1,1,1', '$slave,254,186']
+encoder,0,0,1729
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:27 2000 $master,254,186,1,1
+
+['$counter,2,0', '$master,252,188,1,1,1', '$slave,252,188']
+encoder,0,0,1698
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:27 2000 $master,252,188,1,1
+
+['$counter,2,0', '$master,250,190,1,1,1', '$slave,250,190']
+encoder,0,0,1565
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:27 2000 $master,250,190,1,1
+
+['$counter,3,0', '$master,246,194,1,1,1', '$slave,246,194']
+encoder,0,0,1379
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:27 2000 $master,246,194,1,1
+
+['$counter,3,0', '$master,240,200,1,1,1', '$slave,240,200']
+encoder,0,0,1092
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:27 2000 $master,240,200,1,1
+
+['$counter,4,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,938
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:28 2000 $master,238,202,1,1
+
+['$counter,6,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,595
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:28 2000 $master,230,210,1,1
+
+['$counter,9,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,393
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:28 2000 $master,226,214,1,1
+
+['$counter,14,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,335
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:28 2000 $master,226,214,1,1
+
+['$counter,18,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,272
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:28 2000 $master,224,216,1,1
+
+['$counter,21,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,255
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:28 2000 $master,224,216,1,1
+
+['$counter,24,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,238
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:29 2000 $master,224,216,1,1
+
+['$counter,21,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,163
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:29 2000 $master,222,218,1,1
+
+['$counter,24,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,60
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:29 2000 $master,220,220,1,1
+
+['$counter,26,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,52
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:29 2000 $master,220,220,1,1
+
+['$counter,27,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:29 2000 $master,222,218,1,1
+
+['$counter,27,0', '$master,228,212,1,1,1', '$slave,228,212']
+encoder,0,0,403
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:29 2000 $master,228,212,1,1
+
+['$counter,26,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,758
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:30 2000 $master,234,206,1,1
+
+['$counter,25,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,810
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:30 2000 $master,236,204,1,1
+
+['$counter,22,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,748
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:30 2000 $master,234,206,1,1
+
+['$counter,17,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,800
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:30 2000 $master,236,204,1,1
+
+['$counter,16,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,944
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:30 2000 $master,238,202,1,1
+
+['$counter,14,0', '$master,240,200,1,1,1', '$slave,240,200']
+encoder,0,0,1019
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:30 2000 $master,240,200,1,1
+
+['$counter,13,0', '$master,242,198,1,1,1', '$slave,242,198']
+encoder,0,0,1155
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:31 2000 $master,242,198,1,1
+
+['$counter,11,0', '$master,244,196,1,1,1', '$slave,244,196']
+encoder,0,0,1283
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:31 2000 $master,244,196,1,1
+
+['$counter,7,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1421
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:31 2000 $master,248,192,1,1
+
+['$counter,5,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1402
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:31 2000 $master,248,192,1,1
+
+['$counter,1,0', '$master,244,196,1,1,1', '$slave,244,196']
+encoder,0,0,1296
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:31 2000 $master,244,196,1,1
+
+['$counter,0,0', '$master,246,194,1,1,1', '$slave,246,194']
+encoder,0,0,1392
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:31 2000 $master,246,194,1,1
+
+['$counter,0,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1427
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:32 2000 $master,248,192,1,1
+
+['$counter,0,0', '$master,250,190,1,1,1', '$slave,250,190']
+encoder,0,0,1506
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:32 2000 $master,250,190,1,1
+
+['$counter,0,0', '$master,250,190,1,1,1', '$slave,250,190']
+encoder,0,0,1553
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:32 2000 $master,250,190,1,1
+
+['$counter,0,0', '$master,250,190,1,1,1', '$slave,250,190']
+encoder,0,0,1516
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:32 2000 $master,250,190,1,1
+
+['$counter,0,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1483
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:32 2000 $master,248,192,1,1
+
+['$counter,0,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1436
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:32 2000 $master,248,192,1,1
+
+['$counter,0,0', '$master,246,194,1,1,1', '$slave,246,194']
+encoder,0,0,1326
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:33 2000 $master,246,194,1,1
+
+['$counter,0,0', '$master,244,196,1,1,1', '$slave,244,196']
+encoder,0,0,1263
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:33 2000 $master,244,196,1,1
+
+['$counter,0,0', '$master,240,200,1,1,1', '$slave,240,200']
+encoder,0,0,1037
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:33 2000 $master,240,200,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,691
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:33 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,342
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:33 2000 $master,226,214,1,1
+
+['$counter,0,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,239
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:33 2000 $master,224,216,1,1
+
+['$counter,12,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,109
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:34 2000 $master,222,218,1,1
+
+['$counter,22,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,117
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:34 2000 $master,222,218,1,1
+
+['$counter,25,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,188
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:34 2000 $master,222,218,1,1
+
+['$counter,26,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,363
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:34 2000 $master,226,214,1,1
+
+['$counter,26,0', '$master,228,212,1,1,1', '$slave,228,212']
+encoder,0,0,495
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:34 2000 $master,228,212,1,1
+
+['$counter,26,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,592
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:34 2000 $master,230,210,1,1
+
+['$counter,23,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,611
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:35 2000 $master,232,208,1,1
+
+['$counter,23,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,577
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:35 2000 $master,230,210,1,1
+
+['$counter,22,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,530
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:35 2000 $master,230,210,1,1
+
+['$counter,21,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,523
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:35 2000 $master,230,210,1,1
+
+['$counter,22,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,549
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:35 2000 $master,230,210,1,1
+
+['$counter,22,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,664
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:35 2000 $master,232,208,1,1
+
+['$counter,21,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,715
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:36 2000 $master,234,206,1,1
+
+['$counter,21,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,777
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:36 2000 $master,234,206,1,1
+
+['$counter,19,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,794
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:36 2000 $master,234,206,1,1
+
+['$counter,17,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,813
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:36 2000 $master,236,204,1,1
+
+['$counter,16,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,797
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:36 2000 $master,234,206,1,1
+
+['$counter,15,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,819
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:37 2000 $master,236,204,1,1
+
+['$counter,14,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,865
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:37 2000 $master,236,204,1,1
+
+['$counter,14,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,879
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:37 2000 $master,236,204,1,1
+
+['$counter,13,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,903
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:37 2000 $master,238,202,1,1
+
+['$counter,13,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,918
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:37 2000 $master,238,202,1,1
+
+['$counter,11,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,924
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:37 2000 $master,238,202,1,1
+
+['$counter,9,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,930
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:38 2000 $master,238,202,1,1
+
+['$counter,9,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,915
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:38 2000 $master,238,202,1,1
+
+['$counter,8,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,916
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:38 2000 $master,238,202,1,1
+
+['$counter,8,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,920
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:38 2000 $master,238,202,1,1
+
+['$counter,8,1', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,928
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:38 2000 $master,238,202,1,1
+
+['$counter,8,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,937
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:38 2000 $master,238,202,1,1
+
+['$counter,7,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,947
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:39 2000 $master,238,202,1,1
+
+['$counter,6,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,947
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:39 2000 $master,238,202,1,1
+
+['$counter,5,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,946
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:39 2000 $master,238,202,1,1
+
+['$counter,5,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,910
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:39 2000 $master,238,202,1,1
+
+['$counter,6,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,754
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:39 2000 $master,234,206,1,1
+
+['$counter,6,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,650
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:39 2000 $master,232,208,1,1
+
+['$counter,7,0', '$master,228,212,1,1,1', '$slave,228,212']
+encoder,0,0,406
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:40 2000 $master,228,212,1,1
+
+['$counter,10,0', '$master,222,218,1,1,1', '$slave,222,218']
+encoder,0,0,130
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:40 2000 $master,222,218,1,1
+
+['$counter,17,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,45
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:40 2000 $master,220,220,1,1
+
+['$counter,23,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-73
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:40 2000 $master,218,222,1,1
+
+['$counter,26,0', '$master,216,224,1,1,1', '$slave,216,224']
+encoder,0,0,-181
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:40 2000 $master,216,224,1,1
+
+['$counter,27,0', '$master,214,226,1,1,1', '$slave,214,226']
+encoder,0,0,-280
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:40 2000 $master,214,226,1,1
+
+['$counter,29,0', '$master,212,228,1,1,1', '$slave,212,228']
+encoder,0,0,-314
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:41 2000 $master,212,228,1,1
+
+['$counter,28,0', '$master,212,228,1,1,1', '$slave,212,228']
+encoder,0,0,-359
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:41 2000 $master,212,228,1,1
+
+['$counter,26,0', '$master,212,228,1,1,1', '$slave,212,228']
+encoder,0,0,-371
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:41 2000 $master,212,228,1,1
+
+['$counter,28,0', '$master,212,228,1,1,1', '$slave,212,228']
+encoder,0,0,-383
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:41 2000 $master,212,228,1,1
+
+['$counter,28,0', '$master,210,230,1,1,1', '$slave,210,230']
+encoder,0,0,-403
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:41 2000 $master,210,230,1,1
+
+['$counter,28,0', '$master,210,230,1,1,1', '$slave,210,230']
+encoder,0,0,-438
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:41 2000 $master,210,230,1,1
+
+['$counter,27,0', '$master,208,232,1,1,1', '$slave,208,232']
+encoder,0,0,-549
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:42 2000 $master,208,232,1,1
+
+['$counter,27,0', '$master,206,234,1,1,1', '$slave,206,234']
+encoder,0,0,-633
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:42 2000 $master,206,234,1,1
+
+['$counter,27,0', '$master,202,238,1,1,1', '$slave,202,238']
+encoder,0,0,-807
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:42 2000 $master,202,238,1,1
+
+['$counter,27,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-949
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:42 2000 $master,200,240,1,1
+
+['$counter,28,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-999
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:42 2000 $master,200,240,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1051
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:42 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1074
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:43 2000 $master,198,242,1,1
+
+['$counter,27,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1077
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:43 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1077
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:43 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1074
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:43 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1071
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:43 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1070
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:43 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1065
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:44 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1057
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:44 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1052
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:44 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1048
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:44 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1046
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:44 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1045
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:44 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1042
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:45 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1035
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:45 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1022
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:45 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1008
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:45 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1005
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:45 2000 $master,198,242,1,1
+
+['$counter,27,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1014
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:46 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1006
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:46 2000 $master,198,242,1,1
+
+['$counter,29,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-980
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:46 2000 $master,200,240,1,1
+
+['$counter,29,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-952
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:46 2000 $master,200,240,1,1
+
+['$counter,28,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-934
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:46 2000 $master,200,240,1,1
+
+['$counter,28,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-955
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:46 2000 $master,200,240,1,1
+
+['$counter,28,0', '$master,200,240,1,1,1', '$slave,200,240']
+encoder,0,0,-974
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:47 2000 $master,200,240,1,1
+
+['$counter,27,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1025
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:47 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,198,242,1,1,1', '$slave,198,242']
+encoder,0,0,-1091
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:47 2000 $master,198,242,1,1
+
+['$counter,28,0', '$master,196,244,1,1,1', '$slave,196,244']
+encoder,0,0,-1128
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:47 2000 $master,196,244,1,1
+
+['$counter,28,0', '$master,194,246,1,1,1', '$slave,194,246']
+encoder,0,0,-1245
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:47 2000 $master,194,246,1,1
+
+['$counter,28,0', '$master,192,248,1,1,1', '$slave,192,248']
+encoder,0,0,-1369
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:47 2000 $master,192,248,1,1
+
+['$counter,27,0', '$master,190,250,1,1,1', '$slave,190,250']
+encoder,0,0,-1438
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:48 2000 $master,190,250,1,1
+
+['$counter,28,0', '$master,190,250,1,1,1', '$slave,190,250']
+encoder,0,0,-1465
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:48 2000 $master,190,250,1,1
+
+['$counter,28,0', '$master,188,252,1,1,1', '$slave,188,252']
+encoder,0,0,-1515
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:48 2000 $master,188,252,1,1
+
+['$counter,29,0', '$master,188,252,1,1,1', '$slave,188,252']
+encoder,0,0,-1521
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:48 2000 $master,188,252,1,1
+
+['$counter,29,0', '$master,188,252,1,1,1', '$slave,188,252']
+encoder,0,0,-1515
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:48 2000 $master,188,252,1,1
+
+['$counter,28,0', '$master,188,252,1,1,1', '$slave,188,252']
+encoder,0,0,-1510
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:48 2000 $master,188,252,1,1
+
+['$counter,29,0', '$master,188,252,1,1,1', '$slave,188,252']
+encoder,0,0,-1514
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:49 2000 $master,188,252,1,1
+
+['$counter,29,0', '$master,188,252,1,1,1', '$slave,188,252']
+encoder,0,0,-1592
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:49 2000 $master,188,252,1,1
+
+['$counter,29,0', '$master,186,254,1,1,1', '$slave,186,254']
+encoder,0,0,-1654
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:49 2000 $master,186,254,1,1
+
+['$counter,29,0', '$master,184,256,1,1,1', '$slave,184,  0']
+encoder,0,0,-1755
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:49 2000 $master,184,256,1,1
+
+['$counter,28,0', '$master,254,186,1,1,1', '$slave,254,186']
+encoder,0,0,1760
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:49 2000 $master,254,186,1,1
+
+['$counter,22,0', '$master,254,186,1,1,1', '$slave,254,186']
+encoder,0,0,1722
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:49 2000 $master,254,186,1,1
+
+['$counter,12,0', '$master,252,188,1,1,1', '$slave,252,188']
+encoder,0,0,1668
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:50 2000 $master,252,188,1,1
+
+['$counter,6,0', '$master,250,190,1,1,1', '$slave,250,190']
+encoder,0,0,1595
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:50 2000 $master,250,190,1,1
+
+['$counter,1,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1491
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:50 2000 $master,248,192,1,1
+
+['$counter,0,0', '$master,248,192,1,1,1', '$slave,248,192']
+encoder,0,0,1421
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:50 2000 $master,248,192,1,1
+
+['$counter,0,0', '$master,244,196,1,1,1', '$slave,244,196']
+encoder,0,0,1222
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:50 2000 $master,244,196,1,1
+
+['$counter,0,0', '$master,242,198,1,1,1', '$slave,242,198']
+encoder,0,0,1119
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:50 2000 $master,242,198,1,1
+
+['$counter,0,0', '$master,240,200,1,1,1', '$slave,240,200']
+encoder,0,0,1094
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:51 2000 $master,240,200,1,1
+
+['$counter,0,0', '$master,240,200,1,1,1', '$slave,240,200']
+encoder,0,0,1034
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:51 2000 $master,240,200,1,1
+
+['$counter,1,0', '$master,238,202,1,1,1', '$slave,238,202']
+encoder,0,0,952
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:51 2000 $master,238,202,1,1
+
+['$counter,0,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,860
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:51 2000 $master,236,204,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,798
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:51 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,657
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:51 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,635
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:52 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,652
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:52 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,675
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:52 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,695
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:52 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,698
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:52 2000 $master,232,208,1,1
+
+['$counter,1,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,679
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:52 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,666
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:53 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,749
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:53 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,777
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:53 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,795
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:53 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,757
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:53 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,739
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:53 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,770
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:54 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,236,204,1,1,1', '$slave,236,204']
+encoder,0,0,826
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:54 2000 $master,236,204,1,1
+
+['$counter,0,0', '$master,234,206,1,1,1', '$slave,234,206']
+encoder,0,0,789
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:54 2000 $master,234,206,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,699
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:54 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,584
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:54 2000 $master,230,210,1,1
+
+['$counter,0,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,540
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:55 2000 $master,230,210,1,1
+
+['$counter,0,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,512
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:55 2000 $master,230,210,1,1
+
+['$counter,0,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,506
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:55 2000 $master,230,210,1,1
+
+['$counter,0,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,540
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:55 2000 $master,230,210,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,642
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:55 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,232,208,1,1,1', '$slave,232,208']
+encoder,0,0,685
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:55 2000 $master,232,208,1,1
+
+['$counter,0,0', '$master,230,210,1,1,1', '$slave,230,210']
+encoder,0,0,571
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:56 2000 $master,230,210,1,1
+
+['$counter,0,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,340
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:56 2000 $master,226,214,1,1
+
+['$counter,0,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,242
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:56 2000 $master,224,216,1,1
+
+['$counter,0,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,247
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:56 2000 $master,224,216,1,1
+
+['$counter,0,0', '$master,226,214,1,1,1', '$slave,226,214']
+encoder,0,0,300
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:56 2000 $master,226,214,1,1
+
+['$counter,0,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,295
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:56 2000 $master,224,216,1,1
+
+['$counter,0,0', '$master,224,216,1,1,1', '$slave,224,216']
+encoder,0,0,230
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:57 2000 $master,224,216,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,80
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:57 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:57 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-28
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:57 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-15
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:57 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-22
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:57 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-53
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:58 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-60
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:58 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-39
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:58 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-41
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:58 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-41
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:58 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-33
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:58 2000 $master,218,222,1,1
+
+['$counter,1,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-14
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:59 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-12
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:59 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-11
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:59 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:59 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:59 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:27:59 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:00 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:00 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:00 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:00 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:00 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:00 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:01 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:01 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:01 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:01 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:01 2000 $master,220,220,1,1
+
+['$counter,1,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:01 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-8
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:02 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:02 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-8
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:02 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-8
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:02 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:02 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-8
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:02 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:03 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:03 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:03 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-8
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:03 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:03 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:03 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-8
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:04 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:04 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-7
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:04 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-6
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:04 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:04 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:05 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-5
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:05 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:05 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:05 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-4
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:05 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:05 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,218,222,1,1,1', '$slave,218,222']
+encoder,0,0,-1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:06 2000 $master,218,222,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:06 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:06 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:06 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:06 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:06 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:07 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:07 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:07 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:07 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:07 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:07 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:08 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:08 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,0
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:08 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:08 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:08 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:08 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:09 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,2
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:09 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,0
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:09 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:09 2000 $master,220,220,1,1
+
+['$counter,0,0', '$master,220,220,1,1,1', '$slave,220,220']
+encoder,0,0,1
+GpsData: ('', 0.0, 0.0, nan, nan, nan, 1, 0)
+2013:09:08:16:28:09 2000 $master,220,220,1,1
+

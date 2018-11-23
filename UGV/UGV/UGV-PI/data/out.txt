@@ -1,0 +1,40 @@
+encoder,0,0, 2.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:48 10 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:48 9 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:49 8 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:49 7 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:49 6 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:49 5 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:49 4 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:50 3 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:50 2 $master,240,240,1,1
+
+encoder,0,0, 1.0
+GpsData: (0.0, 0.0, nan, nan, nan, 1, 0)
+2013:06:09:16:33:50 1 $master,240,240,1,1
+

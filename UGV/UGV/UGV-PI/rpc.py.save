@@ -1,0 +1,43 @@
+
+#use for RPC communication to control station 
+from SerialM8 import SerialM8
+from Cmps03 import Cmps03
+import xmlrpclib
+import SimpleXMLRPCServer
+import string,socket
+import time
+
+left=1
+right=1
+accessList=('10.10.1.27','10.14.1.3')#ip address who can access UGV
+
+class Server(SimpleXMLRPCServer.SimpleXMLRPCServer):
+    def __init__(self,*args):
+        SimpleXMLRPCServer.SimpleXMLRPCServer.__init__(self,(args[0],args[1]))
+        
+    def server_bind(self):
+        self.socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        SimpleXMLRPCServer.SimpleXMLRPCServer.server_bind(self)
+
+    def verify_request(self,request, client_address):
+        if client_address[0] in accessList:
+            return 1
+        else:
+			return 0
+class learningdata:
+	def __init__(self):
+		pass
+	def manual(self,pwml,pwmr,left,right):
+		Con=SerialM8()
+		command="%d,%d,%b,%b"%(pwml,pwmr,left.right)
+		dataSerial=Con.SerialSend(command)
+		self.Magnetometer=Cmps03()
+		MagnetometerHeading=self.Magnetometer.data()
+		return time.strftime("%Y:%m:%d:%H:%M:%S", time.gmtime()),MagnetometerHeading,dataSerial
+	
+		
+if __name__ == "__main__":
+	server = Server('',8000)
+	print "Listen port 8000"
+	server.register_instance(learningdata())
+	server.serve_forev
